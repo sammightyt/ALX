@@ -1,0 +1,18 @@
+[
+  {
+    "type": "Overnight",
+    "price": 259.99
+  },
+  {
+    "type": "2-Day",
+    "price": 99.99
+  },
+  {
+    "type": "Postal",
+    "price": 29.99
+  },
+  {
+    "type": "MomIsBad Luxury",
+    "price": 599.99
+  }
+]
