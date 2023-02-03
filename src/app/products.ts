@@ -41,10 +41,10 @@ export const products = [
   },
   {
     id: 6,
-    name: 'EMac Mummy Gaming Laptop',
+    name: 'EMac John Gaming Laptop',
     price: 2099,
     description:
-      'The most powerful laptop ever, created with a Mummypro Verzion 5-15600K CPU!',
+      'The most powerful laptop ever, created with a Johnpro Verzion 5-15600K CPU!',
   },
   {
     id: 7,
