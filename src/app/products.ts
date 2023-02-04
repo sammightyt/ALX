@@ -48,7 +48,7 @@ export const products = [
   },
   {
     id: 7,
-    name: 'SamPhone Luxury Max',
+    name: 'Karthik koundinya bhatiprol IsBad Luxury Max',
     price: 12999,
     description: '',
   },
