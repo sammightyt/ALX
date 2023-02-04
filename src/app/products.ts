@@ -48,7 +48,7 @@ export const products = [
   },
   {
     id: 7,
-    name: 'Karthik koundinya bhatiprol IsBad Luxury Max',
+    name: 'KarthikKoundinyaBhattiprolIsBad Luxury Max',
     price: 12999,
     description: '',
   },
