@@ -48,13 +48,13 @@ export const products = [
   },
   {
     id: 7,
-    name: 'KarthikKoundinyaBhattiprolIsBad Luxury Max',
+    name: 'SuryaPro Luxury Max',
     price: 12999,
     description: '',
   },
   {
     id: 8,
-    name: 'BunnyIsBad Gaming PC',
+    name: 'Victorus Gaming PC',
     price: 13999,
     description:
       'The newest gaming PC by ALX. Created with an ALX Luzon l7-17700K CPU and a ALX Laxus RTF 9080 Graphics Card.',
