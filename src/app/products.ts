@@ -53,11 +53,12 @@ export const products = [
     description: '',
   },
   {
-    id:8,
-    name: 'ALX Aura 7 Gaming PC',
+    id: 8,
+    name: 'BunnyIsBad Gaming PC',
     price: 13999,
-    description: 'The newest gaming PC by ALX. Created with an ALX Luzon l7-17700K CPU and a ALX Laxus RTF 9080 Graphics Card.'
-  }
+    description:
+      'The newest gaming PC by ALX. Created with an ALX Luzon l7-17700K CPU and a ALX Laxus RTF 9080 Graphics Card.',
+  },
 ];
 
 /*
