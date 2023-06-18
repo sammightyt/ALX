@@ -48,9 +48,10 @@ export const products = [
   },
   {
     id: 7,
-    name: 'SuryaPro Luxury Max',
+    name: 'InVictus Luxury PC',
     price: 12999,
-    description: '',
+    description:
+      'One of the most powerful workstations ever, packed with 512 GB of RAM, 32 TB of Storage, an ALX Laxus RTF 10090Ti, and an ALX Legend 11 7995X4D CPU. We also have an ALX Powerking 6790X included.',
   },
   {
     id: 8,
@@ -58,6 +59,20 @@ export const products = [
     price: 13999,
     description:
       'The newest gaming PC by ALX. Created with an ALX Luzon l7-17700K CPU and a ALX Laxus RTF 9080 Graphics Card.',
+  },
+  {
+    id: 9,
+    name: 'InVictus Gaming PC Pro',
+    price: 29999,
+    description:
+      'The most powerful workstation ever, packed with 4 TB of RAM, 128 TB of Storage, an ALX Laxus RTF 11090Ti, and an ALX Powerking 7790X CPU. We also have an ALX Coremonster 3990X included.',
+  },
+  {
+    id: 10,
+    name: 'Laxus RTF 9090Ti',
+    price: 3999,
+    description:
+      '',
   },
 ];
 
